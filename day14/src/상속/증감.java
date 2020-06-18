@@ -1,0 +1,14 @@
+package 상속;
+
+public class 증감 {
+
+	public static void main(String[] args) {
+		증가 plus = new 증가();
+		감소 minus = new 감소();
+		
+		plus.start();
+		minus.start();
+
+	}
+
+}
