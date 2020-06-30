@@ -1,0 +1,6 @@
+DAO(Data Access Object)
+- DB 접근해서 처리하는 클래스
+- 데이터를 가지고 할 수 있는 일(Create,Read,Update,Delete-CRUD)
+
+DTO(Data Transfer Object)
+- 입력한 데이터를 DB 전송하기 위해서 데이터를 묶기위한 가방 역할의 클래스
